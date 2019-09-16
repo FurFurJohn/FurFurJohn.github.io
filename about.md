@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Yue(Alex) Jiang. I am currently a Master of Data Science Student at UBC. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is my first time in Canada. Vancouver does rain a lot. When there is no rain, it is good.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yuejiang001@outlook.com](mailto:uejiang001@outlook.com)

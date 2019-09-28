@@ -11,4 +11,6 @@ OK. First, what is regression analysis? What is it for?
 
 Wikipedia gives a very technical definition:      
 
-"*regression analysis is a set of statistical processes for estimating the relationships among variables. It includes many techniques for modeling and analyzing several variables, when the focus is on the relationship between a dependent variable and one or more independent variables (or 'predictors')*"$^1$.
+"*regression analysis is a set of statistical processes for estimating the relationships among variables. It includes many techniques for modeling and analyzing several variables, when the focus is on the relationship between a dependent variable and one or more independent variables (or 'predictors')*"<sub>1</sub>.
+   
+The focus for regression analysis is "relationships among variables". So what kind of relationships are we looking for here? Let’s see an example. We often see in crime/detective movies, when the detectives see the footprints of a suspect, they can instantly tell roughly how tall the suspect is. How did they do that? Is that some kind of magic? Of course not! They know that because there is a relationship between a person’s height and foot size. According to a study by the University of Rhode Island Department of Electrical, Computer and Biomedical Engineering, the normal height-to-foot ratio is about 6.6:1<sub>2</sub>.

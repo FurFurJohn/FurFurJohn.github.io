@@ -31,7 +31,7 @@ For OLS to work properly, the relationship between a dependent variable and inde
 
 <img src="http://image109.360doc.com/DownloadImg/2018/07/0610/137659165_20_20180706105323223">
 
-
+![title](linear.jpg)
 
 
 

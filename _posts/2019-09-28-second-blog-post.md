@@ -39,6 +39,8 @@ If the relationship is quadratic or in other forms, then we cannot use OLS. It w
      
 [Source](http://mathcentral.uregina.ca/QQ/database/QQ.09.06/mike1.html)
 
+
+#### Note:
 Because Github does not support LaTex, and the following paragraphs contain a lot of math simbols and math fomulas, please click the link below and see the rest of this blog in a rendered Jupyter Notebook:
 
 [Ordinary Least Squares](https://github.com/FurFurJohn/FurFurJohn.github.io/blob/master/_posts/Ordinary%20Least%20Squares.ipynb)

@@ -29,9 +29,23 @@ Let's understand this definition bit by bit. There are a few key words of OLS we
      
 For OLS to work properly, the relationship between a dependent variable and independent variables must be linear. Below is an example of a linear relationship. (See source 4) 
 
-<img src="http://image109.360doc.com/DownloadImg/2018/07/0610/137659165_20_20180706105323223">
-
 ![linear](https://user-images.githubusercontent.com/44696601/65821098-fa9f1200-e1e5-11e9-8353-5dd2db2d6753.jpg)
+  
+[Source](http://www.360doc.com/content/18/0706/10/15930282_768242401.shtml)  
+     
+If the relationship is quadratic or in other forms, then we cannot use OLS. It would do a bad job estimating the relationship. Below is an example of a quadratic relationship. (See source 5) 
+      
+![quadratics](https://user-images.githubusercontent.com/44696601/65821113-2de1a100-e1e6-11e9-93ab-d450b3522077.gif)
+     
+[Source] (http://mathcentral.uregina.ca/QQ/database/QQ.09.06/mike1.html)
+
+Let's see an example of an OLS function: 
+$$y=\beta_0+\beta_1x$$
+
+
+
+
+
 
 
 

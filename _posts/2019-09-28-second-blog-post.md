@@ -37,21 +37,22 @@ If the relationship is quadratic or in other forms, then we cannot use OLS. It w
       
 ![quadratics](https://user-images.githubusercontent.com/44696601/65821113-2de1a100-e1e6-11e9-93ab-d450b3522077.gif)
      
-[Source] (http://mathcentral.uregina.ca/QQ/database/QQ.09.06/mike1.html)
+[Source](http://mathcentral.uregina.ca/QQ/database/QQ.09.06/mike1.html)
 
-Let's see an example of an OLS function: 
-$$y=\beta_0+\beta_1x$$
+Because Github does not support LaTex, and the following paragraphs contain a lot of math simbols and math fomulas, please click the link below and see the rest of this blog in a rendered Jupyter Notebook:
 
-```math
-$$SE = \frac{\sigma}{\sqrt{n}}$$
-```
+[Ordinary Least Squares](https://github.com/FurFurJohn/FurFurJohn.github.io/blob/master/_posts/Ordinary%20Least%20Squares.ipynb)
 
 
 
 
+#### Sources:
 
-
-
+1. Regression analysis. Wikipedia. (n.d.). Retrieved from https://en.wikipedia.org/wiki/Regression_analysis  
+2. Tremblay, S. Height-to-Foot-Size Ratio. (n.d.). Retrived from https://www.livestrong.com/article/491821-height-to-foot-size-ratio/
+3. Ordinary least squares. Wikipedia. (n.d.). Retrieved from https://en.wikipedia.org/wiki/Ordinary_least_squares
+4. Fengjiutian88. How to understand OLS? (2018). Retrieved from http://www.360doc.com/content/18/0706/10/15930282_768242401.shtml 
+5. Penny. Graphing quadratic equations. (n.d.). Retrieved from http://mathcentral.uregina.ca/QQ/database/QQ.09.06/mike1.html
 
 
 

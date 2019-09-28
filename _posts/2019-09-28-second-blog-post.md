@@ -43,7 +43,7 @@ Let's see an example of an OLS function:
 $$y=\beta_0+\beta_1x$$
 
 ```math
-SE = \frac{\sigma}{\sqrt{n}}
+$$SE = \frac{\sigma}{\sqrt{n}}$$
 ```
 
 

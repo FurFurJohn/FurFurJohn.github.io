@@ -42,7 +42,9 @@ If the relationship is quadratic or in other forms, then we cannot use OLS. It w
 Let's see an example of an OLS function: 
 $$y=\beta_0+\beta_1x$$
 
-
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
 
 
